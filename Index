@@ -43,7 +43,7 @@ html lang="id">
   <main>
     <p>Selamat datang di halaman koin <b>SLOW</b>.</p>
     <!-- Pastikan gambar ada di folder img_slow.png -->
-    <img src="img/slow.png" alt="Koin SLOW">
+    <img src="img_slow.png" alt="Koin SLOW">
     <p>Koin ini adalah simbol kesabaran dan kekuatan.</p>
   </main>
 
